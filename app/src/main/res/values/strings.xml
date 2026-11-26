@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi Diccionario</string>
+    <string name="hint_palabra">Palabra:</string>
+    <string name="hint_definicion">Definicion:</string>
+    <string name="btn_Guardar">Guardar</string>
+    <string name="btn_Editar">Editar</string>
+    <string name="btn_Borrar">Borrar</string>
+    <string name="Menu_Nuevo">Nuevo Registro</string>
+</resources>
