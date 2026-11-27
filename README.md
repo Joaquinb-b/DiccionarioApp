@@ -42,7 +42,7 @@ app/src/main/java/com/example/myapplication/
 
 1. Clona este repositorio en tu computadora:
    ```bash
-   git clone https://github.com/tu-usuario/DiccionarioApp.git
+   git clone https://github.com/Joaquinb-b/DiccionarioApp.git
    ```
 2. Abre **Android Studio** y selecciona **File > Open** buscando la carpeta `DiccionarioApp`.
 3. Espera a que **Gradle** termine de sincronizar las dependencias del proyecto.
